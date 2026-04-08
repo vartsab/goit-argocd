@@ -15,7 +15,7 @@ spec:
         image:
           registry: docker.io
           repository: bitnami/postgresql
-          tag: 16.3.0
+          tag: latest
 
         auth:
           postgresPassword: postgres123
